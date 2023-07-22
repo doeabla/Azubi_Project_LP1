@@ -23,4 +23,4 @@ This project aims to provide valuable insights into the factors that significant
 ## Conclusion
 
 ## Authors
-Enoch Taylor-Nketiah| Doe Edinam Abla| Kofi Asare Bamfo-https://github.com/akbamfo| Timothy Morenikeji Akinremi
+Enoch Taylor-Nketiah| Doe Edinam Abla| Kofi Asare Bamfo-https://github.com/akbamfo| Timothy Morenikeji Akinremi- https://github.com/timothyakinremi
