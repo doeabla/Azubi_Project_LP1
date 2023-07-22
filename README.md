@@ -1,4 +1,4 @@
-# THE_INDIAN_STARTUP_ECOSYSTEM_DATA_ANALYSIS_FOR_ENTREPRENEURS
+# THE INDIAN STARTUP ECOSYSTEM DATA ANALYSIS FOR ENTREPRENEURS
 
 This project aims to provide valuable insights into the factors that significantly impact the funding received by startups in India. By analyzing data from 2018 to 2021, we explore how various factors, including Sector, Headquarters location, Company focus, and Funding stage, influence the amount of funding startups receive. The purpose of this analysis is to guide a potential team of entrepreneurs in making informed decisions when venturing into the Indian startup ecosystem.
 
@@ -16,5 +16,10 @@ This project aims to provide valuable insights into the factors that significant
  * from dotenv import dotenv_values
  * import re
  * import warnings
+
+## Objectives
+## Expected Outcomes 
+## Recommendations 
+## Conclusion
 
 ## Authors
