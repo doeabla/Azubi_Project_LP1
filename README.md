@@ -61,5 +61,5 @@ https://www.neusourcestartup.com/startupindia/startup-problems-india-facing
 https://www.theofficepass.com/toppings/common-problems-entrepreneurs-face-starting-startup-india.html
 
 ## Authors
-Enoch Taylor-Nketiah | Doe Edinam Abla | Kofi Asare Bamfo | Timothy Morenikeji Akinremi| Tolulope Philip Oludipe
-|https://github.com/akbamfo|https://github.com/doeabla|https://github.com/akbamfo | https://github.com/timothyakinremi
+Enoch Taylor-Nketiah | Doe Edinam Abla | Kofi Asare Bamfo | Timothy Morenikeji Akinremi| Tolulope Philip Oludipe| Godfrey Chilebe
+https://github.com/kojoboyoo | https://github.com/doeabla | https://github.com/akbamfo | https://github.com/timothyakinremi
