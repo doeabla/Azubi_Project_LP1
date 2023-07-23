@@ -62,4 +62,4 @@ https://www.theofficepass.com/toppings/common-problems-entrepreneurs-face-starti
 
 ## Authors
 Enoch Taylor-Nketiah | Doe Edinam Abla | Kofi Asare Bamfo | Timothy Morenikeji Akinremi| Tolulope Philip Oludipe
-||https://github.com/akbamfo | https://github.com/timothyakinremi
+|https://github.com/akbamfo|https://github.com/akbamfo | https://github.com/timothyakinremi
