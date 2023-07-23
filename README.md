@@ -45,7 +45,7 @@ However, for the "Sector" and "HeadQuarter" variables, we fail to reject the nul
 ## Recommendations
 1. Consider sectors like Fintech, Edtech and Retail when venturing into this ecosystems, however be mmindful of the competition in such sectors.
 2. Conduct thorough market research to identify potential investors interested in your sector and offerings as the main investors are unkown to the public.
-3. Tailor fundraising efforts based on the investment stage. Debt seems to be the main source of funding for startups in the Indian business ecosystem so due diligence to find out what stage suits growth phase 
+3. Tailor fundraising efforts based on the investment stage. Debt seems to be the main source of funding for startups in the Indian business ecosystem. due diligence must be done to find out what stage suits growth phase.  
 4. Companies in cities such as Gurgaon, Bangalore, Hyderabad,Mumbai, NewDelhi and Jodhbur received quite significant funding within the period. In this cities except for Gurgaon, getting funded irrespective of Sector is highly attainable.
 
 ## Conclusion
